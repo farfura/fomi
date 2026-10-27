@@ -1,0 +1,99 @@
+{
+  "id": "bloom-and-field",
+  "name": "Bloom & Field",
+  "client": "Maison Rêve",
+  "brief": "Spring lookbook for a slow fashion label. Natural light, warm skin tones, quiet confidence. Every frame should feel like the same afternoon.",
+  "updatedAt": "2026-10-24T18:20:00.000Z",
+  "activeShotId": "shot_rose",
+  "dna": {
+    "references": ["field-portrait", "floral-still-life", "lace-window"],
+    "palette": ["#E7D3C3", "#C9876B", "#6F7F5A", "#2E3B36", "#F4EEE6"],
+    "subject": "Short dark hair, natural makeup, linen and lace wardrobe",
+    "light": "Soft natural light, late afternoon, from camera left",
+    "lens": "85mm, f/2, eye level",
+    "modelId": "fomi-photo-2",
+    "ratio": "4:5",
+    "locks": { "palette": true, "subject": true, "light": true, "lens": false }
+  },
+  "shots": [
+    {
+      "id": "shot_field",
+      "name": "Field portrait",
+      "purpose": "Landing page hero",
+      "status": "approved",
+      "pool": ["floral-crown", "floral-window", "floral-painterly"],
+      "takes": [
+        { "id": "take_field_1", "mediaId": "field-portrait", "parentId": null, "direction": "First pass from the brief", "strength": "balanced", "approved": false, "createdAt": "2026-10-22T10:00:00.000Z", "notes": [] },
+        { "id": "take_field_2", "mediaId": "field-illustrated", "parentId": "take_field_1", "direction": "Make it feel like a painted storybook", "strength": "bold", "approved": false, "createdAt": "2026-10-22T10:12:00.000Z", "notes": [] },
+        { "id": "take_field_3", "mediaId": "field-redhead", "parentId": "take_field_2", "direction": "Warm afternoon light, wildflowers around her", "strength": "balanced", "approved": true, "createdAt": "2026-10-22T10:31:00.000Z", "notes": [] }
+      ]
+    },
+    {
+      "id": "shot_rose",
+      "name": "Red rose",
+      "purpose": "Lookbook cover",
+      "status": "exploring",
+      "pool": ["portrait-bob-window", "portrait-blazer", "lace-shadow"],
+      "takes": [
+        { "id": "take_rose_1", "mediaId": "rose-city", "parentId": null, "direction": "First pass from the brief", "strength": "balanced", "approved": false, "createdAt": "2026-10-24T16:02:00.000Z", "notes": [] },
+        { "id": "take_rose_2", "mediaId": "rose-neon", "parentId": "take_rose_1", "direction": "Push the neon, darker background", "strength": "bold", "approved": false, "createdAt": "2026-10-24T16:20:00.000Z", "notes": [] },
+        {
+          "id": "take_rose_3",
+          "mediaId": "rose-window",
+          "parentId": "take_rose_1",
+          "direction": "Calmer: soft window light instead of the street",
+          "strength": "balanced",
+          "approved": false,
+          "createdAt": "2026-10-24T17:48:00.000Z",
+          "notes": [
+            { "id": "note_rose_1", "x": 0.62, "y": 0.16, "text": "Rose reads orange here. Keep it deep red like take 1." },
+            { "id": "note_rose_2", "x": 0.3, "y": 0.78, "text": "Swap the strap top for the cream linen from the brief." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shot_fighter",
+      "name": "The fighter",
+      "purpose": "Campaign contrast frame",
+      "status": "exploring",
+      "pool": ["fighter-neon", "punk-violet", "punk-portrait"],
+      "takes": [
+        { "id": "take_fighter_1", "mediaId": "fighter-gym", "parentId": null, "direction": "First pass from the brief", "strength": "balanced", "approved": false, "createdAt": "2026-10-23T14:00:00.000Z", "notes": [] },
+        {
+          "id": "take_fighter_2",
+          "mediaId": "fighter-green",
+          "parentId": "take_fighter_1",
+          "direction": "Gritty: green tungsten, brick wall",
+          "strength": "bold",
+          "approved": false,
+          "createdAt": "2026-10-23T14:22:00.000Z",
+          "notes": [{ "id": "note_fighter_1", "x": 0.52, "y": 0.42, "text": "Too green on the skin. Keep the colour in the background only." }]
+        }
+      ]
+    },
+    {
+      "id": "shot_product",
+      "name": "Hero product",
+      "purpose": "Shop banner",
+      "status": "exploring",
+      "pool": ["doll-patchwork-window", "podium-clouds", "podium-wood"],
+      "takes": [
+        { "id": "take_product_1", "mediaId": "doll-knit", "parentId": null, "direction": "First pass from the brief", "strength": "balanced", "approved": false, "createdAt": "2026-10-21T09:00:00.000Z", "notes": [] },
+        { "id": "take_product_2", "mediaId": "doll-knit-sunset", "parentId": "take_product_1", "direction": "Place her on a beach at sunset", "strength": "bold", "approved": true, "createdAt": "2026-10-21T09:18:00.000Z", "notes": [] },
+        { "id": "take_product_3", "mediaId": "doll-patchwork", "parentId": "take_product_1", "direction": "Try the patchwork doll for comparison", "strength": "bold", "approved": false, "createdAt": "2026-10-21T09:40:00.000Z", "notes": [] }
+      ]
+    },
+    {
+      "id": "shot_alpine",
+      "name": "Mountain story",
+      "purpose": "Journal article",
+      "status": "exploring",
+      "pool": ["alpine-wind", "alpine-kimono", "hat-tropical"],
+      "takes": [
+        { "id": "take_alpine_1", "mediaId": "alpine-portrait", "parentId": null, "direction": "First pass from the brief", "strength": "balanced", "approved": false, "createdAt": "2026-10-20T11:00:00.000Z", "notes": [] },
+        { "id": "take_alpine_2", "mediaId": "alpine-valley", "parentId": "take_alpine_1", "direction": "Open up the background to the alpine valley", "strength": "balanced", "approved": false, "createdAt": "2026-10-20T11:25:00.000Z", "notes": [] }
+      ]
+    }
+  ]
+}

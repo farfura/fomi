@@ -1,0 +1,1223 @@
+{
+  "images": [
+    {
+      "id": "cat-ragdoll-daisies",
+      "type": "image",
+      "src": "/media/images/cat-ragdoll-daisies.webp",
+      "width": 1024,
+      "height": 1024,
+      "alt": "Fluffy ragdoll kitten with blue eyes sitting among pink daisies",
+      "tags": [
+        "cat",
+        "pet",
+        "animal",
+        "cute",
+        "soft"
+      ],
+      "color": "#827567",
+      "blurDataURL": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAQCdASoQABAAA4BaJQBOgB4PJJ5yMoAA/u8PqsZadg3AupTR1lwHsEe8TnhmkCWfVPykWj5jA9BacyZR0k/SFBkje62Bkp4A/opVkdn+Xf0aewRxXNiRFaL5itJgUxR6lGh55AAAAA=="
+    },
+    {
+      "id": "cat-ragdoll-window",
+      "type": "image",
+      "src": "/media/images/cat-ragdoll-window.webp",
+      "width": 1024,
+      "height": 1024,
+      "alt": "Ragdoll kitten looking up beside a sunny window with flowers",
+      "tags": [
+        "cat",
+        "pet",
+        "animal",
+        "cute",
+        "soft"
+      ],
+      "color": "#7c6f5f",
+      "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoQABAAA4BaJZACdAYwxDJQ4hEAAP5NJCG0c8Ih8AJCtvrZ032S0Yb5Jd1dwQAjlUVw7H/IDxJLg5UjcDEqSvUuOSlBpgYPtiUNle/Fx1CBE3Yb8ahcrvzyFp1Nnmm5QQeXjaybRwIAAA=="
+    },
+    {
+      "id": "cat-ragdoll-meadow",
+      "type": "image",
+      "src": "/media/images/cat-ragdoll-meadow.webp",
+      "width": 1024,
+      "height": 1024,
+      "alt": "Long haired cat sitting in a meadow of daisies, shallow depth of field",
+      "tags": [
+        "cat",
+        "pet",
+        "animal",
+        "cute"
+      ],
+      "color": "#9a887a",
+      "blurDataURL": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABQAgCdASoQABAAA4BaJQBOgMXN1N3MiHpbGOAA/k9sq03L0ZKWYRlE5CJWHIUhNIjG/W8EsyXrgsrrGWAJdf2p1Gw781YjrdSzLNNpDMqCK7hYiQjnY9ZfTZp/NTirPw/NzydUX/YAAA=="
+    },
+    {
+      "id": "cat-ragdoll-home",
+      "type": "image",
+      "src": "/media/images/cat-ragdoll-home.webp",
+      "width": 1117,
+      "height": 1280,
+      "alt": "White fluffy cat sitting on a kitchen counter in soft daylight",
+      "tags": [
+        "cat",
+        "pet",
+        "animal",
+        "home"
+      ],
+      "color": "#766856",
+      "blurDataURL": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoOABAAA4BaJQBOgCFevO8ef8AAAP72kgWNNQHFf052ZkqtxmiJS1ESxcFhJ6fh/UXz/P01EEGWo/JpV50UjsDt+bO0HmQ8fIAAAA=="
+    },
+    {
+      "id": "fighter-gym",
+      "type": "image",
+      "src": "/media/images/fighter-gym.webp",
+      "width": 842,
+      "height": 1280,
+      "alt": "Close portrait of a determined female boxer wearing gloves in a dim gym",
+      "tags": [
+        "portrait",
+        "boxer",
+        "athlete",
+        "cinematic",
+        "dramatic",
+        "woman"
+      ],
+      "color": "#534439",
+      "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoLABAAA4BaJYwCdIIjE6tDAJt2AAD+zgcg8yjzzch+6hmPYiFp2ibc44k9uTRxHR/a9UrS5+lRvRoK+gwwgX7jEmzqCYQoRpCiZ1BXwS+z9VXIuAA="
+    },
+    {
+      "id": "fighter-green",
+      "type": "image",
+      "src": "/media/images/fighter-green.webp",
+      "width": 768,
+      "height": 1152,
+      "alt": "Female boxer lit by green tungsten light against a brick wall",
+      "tags": [
+        "portrait",
+        "boxer",
+        "athlete",
+        "cinematic",
+        "dramatic",
+        "woman"
+      ],
+      "color": "#626541",
+      "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoLABAAA4BaJaACdAELHBTuiwAA/tvqLcOGGh9nSV0PW/MP/kc4msNKUGDrCxWcVsbjLwYE24AbvBRuRamqwK2uCr4vlsHH9R5HDqWQYMKkXsY3oAA="
+    },
+    {
+      "id": "fighter-neon",
+      "type": "image",
+      "src": "/media/images/fighter-neon.webp",
+      "width": 768,
+      "height": 1152,
+      "alt": "Female boxer under pink and blue neon city lights",
+      "tags": [
+        "portrait",
+        "boxer",
+        "athlete",
+        "neon",
+        "cinematic",
+        "woman"
+      ],
+      "color": "#885d8b",
+      "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwAgCdASoLABAAA4BaJbACdAEQEUZZRp0rIAD+pgD7TuNwmQgDpWccnMyNEZaXbZy77LN2mFqTstpzFOK9qTwT76QHN/GUNBWjSa0+uYKhwhiBPfAGqz+aRZLZ7LZux0Z9gSB74PRbCIuAAAA="
+    },
+    {
+      "id": "alpine-portrait",
+      "type": "image",
+      "src": "/media/images/alpine-portrait.webp",
+      "width": 1024,
+      "height": 1024,
+      "alt": "Young woman with a wavy bob in a floral dress, forest behind her",
+      "tags": [
+        "portrait",
+        "woman",
+        "nature",
+        "mountain",
+        "editorial"
+      ],
+      "color": "#6a6146",
+      "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwAgCdASoQABAAA4BaJagCdADpK5OzeWK4AAD+5sTLB6V+YZyxaRFRYLX6v2wWvldAkZdYdHxuDPBYLh7DDRXRDNB3ZCtLZ8nAMX7cWp9TYRlGdyGRUeF1s1Np85pCVlGoRNdHGwZMIEKAAAA="
+    },
+    {
+      "id": "alpine-valley",
+      "type": "image",
+      "src": "/media/images/alpine-valley.webp",
+      "width": 1024,
+      "height": 1024,
+      "alt": "Woman in a floral dress gazing across an alpine valley at golden hour",
+      "tags": [
+        "portrait",
+        "woman",
+        "nature",
+        "mountain",
+        "landscape",
+        "editorial"
+      ],
+      "color": "#656d65",
+      "blurDataURL": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABwAgCdASoQABAAA4BaJbACdH8AgpCAVZ4Yh40AAP7oTT5QIZvM4JloOGnPRcXMRwuOdDDbYYRtbvdyNdpf9qzVX+ZwNEvpaRvlG55kjVkoNOAtlGu6b2R/QL3oQFSs3KO31aQWq7DM4x0fZ8dLjBPZZ06gAA=="
+    },
+    {
+      "id": "alpine-wind",
+      "type": "image",
+      "src": "/media/images/alpine-wind.webp",
+      "width": 1024,
+      "height": 1024,
+      "alt": "Woman with windswept hair in front of snowy mountains and pine trees",
+      "tags": [
+        "portrait",
+        "woman",
+        "nature",
+        "mountain",
+        "landscape"
+      ],
+      "color": "#5e665e",
+      "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABQAgCdASoQABAAA4BaJZgCdH8AFe1F0DvC3AAA/gk2jTvhsTjD77kjbD3zGi5AEpJOLjIXMzoBhULmDF+lWtadsuKYmhWIp5TJ5RxlqCSmp6XpPKR+d/fc+02Hp/W3tihJnQIAw1Xhfs7bAAA="
+    },
+    {
+      "id": "alpine-kimono",
+      "type": "image",
+      "src": "/media/images/alpine-kimono.webp",
+      "width": 1024,
+      "height": 1024,
+      "alt": "Woman in a floral kimono in front of snow capped mountains",
+      "tags": [
+        "portrait",
+        "woman",
+        "mountain",
+        "illustration"
+      ],
+      "color": "#887e77",
+      "blurDataURL": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoQABAAA4BaJQBOgMXrwELnjj8VwAD8/9BJawQEjzu7eI8+Y8Os1acO5w6B/Rly2+TGcqjsAAdSTE44pLR9cLyQZNLHTdHYIxdAZvvezlCDvarKr9D8LBFCLqDx7DGJosgYByGa5cbpxgAA"
+    },
+    {
+      "id": "food-steak",
+      "type": "image",
+      "src": "/media/images/food-steak.webp",
+      "width": 768,
+      "height": 1024,
+      "alt": "Seared steak with rosemary on a dark ceramic plate",
+      "tags": [
+        "food",
+        "restaurant",
+        "product",
+        "moody"
+      ],
+      "color": "#4f4632",
+      "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoMABAAA4BaJYgCdAEU6zDQOPgA/uYbVAxCKp0Mie6d1neGWqqq0+HVxfmBgq4sDFjFLs/XSJVZEqKuabe/IxIEnTxsi2a7I+FB8oIFdasV6UbEn0/bIwAUcAA="
+    },
+    {
+      "id": "food-hotpot",
+      "type": "image",
+      "src": "/media/images/food-hotpot.webp",
+      "width": 896,
+      "height": 1152,
+      "alt": "Steaming spicy hot pot with tofu and vegetables",
+      "tags": [
+        "food",
+        "restaurant",
+        "moody"
+      ],
+      "color": "#795630",
+      "blurDataURL": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABQAgCdASoMABAAA4BaJbACdAYvryXlHuxkdQAA/uYbUny7iXERE1Zdt6WN9B0Td6wuYLR47SL2RSO8dEzLjfq3zrhbwFn/fUitfHYihUxwOu+tBbO5dRAqHl40tTM+n0AdRi4iR27Q7uIIyl9g8+AA"
+    },
+    {
+      "id": "food-noodle-bowl",
+      "type": "image",
+      "src": "/media/images/food-noodle-bowl.webp",
+      "width": 896,
+      "height": 1152,
+      "alt": "Turquoise bowl of broth with mushrooms, chillies and greens",
+      "tags": [
+        "food",
+        "restaurant",
+        "moody"
+      ],
+      "color": "#574e3b",
+      "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAABQAgCdASoMABAAA4BaJYgCdEf/gfQG5oTV9tAA/uYbVCO3Bhsxda7rvfKM1DVLubxcT+GHPZFDv6/zucQ6vO+NR90AC1KxOko9HYxiopHhMcXWeEReTmOq4YXm/sSB3RhiD/M5xr5NoyfMW35YAA=="
+    },
+    {
+      "id": "rose-city",
+      "type": "image",
+      "src": "/media/images/rose-city.webp",
+      "width": 853,
+      "height": 1280,
+      "alt": "Young woman with a red rose headband on a city street at night",
+      "tags": [
+        "portrait",
+        "woman",
+        "rose",
+        "night",
+        "city",
+        "cinematic"
+      ],
+      "color": "#6c5654",
+      "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwAgCdASoLABAAA4BaJZACdAEfbqGN8j/SCAD+6hRxC8E/bcGRrC/CtCZMrKIeVNMgR2XpWXCfsnisD6tJB7GrTbG8ZbnpkV0NbN55fY43Wd9sx0MDv0dW92H3p9VSscWYR55uA9GmmRAAAAA="
+    },
+    {
+      "id": "rose-neon",
+      "type": "image",
+      "src": "/media/images/rose-neon.webp",
+      "width": 768,
+      "height": 1152,
+      "alt": "Woman with a red rose headband lit by red neon rim light",
+      "tags": [
+        "portrait",
+        "woman",
+        "rose",
+        "neon",
+        "cinematic"
+      ],
+      "color": "#472b1c",
+      "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwAgCdASoLABAAA4BaJaACdAEedVLoUHfTAAD+inrg0Xyc3Y/lKrtZB9Vx75pVvqxV+LuhH0feEZKeEQ2rjbYH9kZ1gLTkVdf07le12SWU/huqmfVTcv8yKZp7bUW3eKy4AA=="
+    },
+    {
+      "id": "rose-window",
+      "type": "image",
+      "src": "/media/images/rose-window.webp",
+      "width": 768,
+      "height": 1152,
+      "alt": "Woman with a rose headband in warm window light",
+      "tags": [
+        "portrait",
+        "woman",
+        "rose",
+        "window",
+        "soft"
+      ],
+      "color": "#674d3c",
+      "blurDataURL": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAwAgCdASoLABAAA4BaJZgCdAEfUoOsxA1dgAD+4pitzfYtzvx+0Jt/bhQfyNGJU6SdChCyNgBR+sg7b46CVeJ8cMXPvQXJ+5C0Xrv5RmBOeeYozgPVN9nczWsAAA=="
+    },
+    {
+      "id": "bird-robin",
+      "type": "image",
+      "src": "/media/images/bird-robin.webp",
+      "width": 564,
+      "height": 846,
+      "alt": "European robin perched on a branch with soft bokeh",
+      "tags": [
+        "bird",
+        "animal",
+        "nature",
+        "wildlife"
+      ],
+      "color": "#796056",
+      "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQAgCdASoLABAAA4BaJZACdADceKRxPisAAP6mx2vpBDwQ+cZMmvvlEmlnsKmunNMl6L5/s6Lr2nNE8T4sdkF9U92pQnDju8sTP9lcgAJTZk7Fsm1TymbxhIDU2nifRccma3IgAAA="
+    },
+    {
+      "id": "bird-robin-branch",
+      "type": "image",
+      "src": "/media/images/bird-robin-branch.webp",
+      "width": 704,
+      "height": 1024,
+      "alt": "Robin on a mossy branch against a warm blurred background",
+      "tags": [
+        "bird",
+        "animal",
+        "nature",
+        "wildlife"
+      ],
+      "color": "#666344",
+      "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQAgCdASoLABAAA4BaJbACdADPl4bu/0oYAP7p+qe9lgmxrRxik0ayxqu16oNDat3QofoYP1rSox6Rz1+zIbizBRMOEhlBhCuQGGcmb+4s9lDNOOoBwoAA"
+    },
+    {
+      "id": "bird-rainbow",
+      "type": "image",
+      "src": "/media/images/bird-rainbow.webp",
+      "width": 704,
+      "height": 1024,
+      "alt": "Small rainbow coloured bird perched on a twig",
+      "tags": [
+        "bird",
+        "animal",
+        "nature",
+        "colorful"
+      ],
+      "color": "#8b8978",
+      "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoLABAAA4BaJbACdADdoNikZkAA/b25no1Hle9hvX5eRGIEfFBNcSQjDw91TuaCRhoq3QUQMBHpF1E18GMZOENT5ZSC4AAA"
+    },
+    {
+      "id": "puppy-teacup",
+      "type": "image",
+      "src": "/media/images/puppy-teacup.webp",
+      "width": 1024,
+      "height": 1024,
+      "alt": "Fluffy brown toy poodle puppy sitting in a white teacup",
+      "tags": [
+        "dog",
+        "pet",
+        "animal",
+        "cute"
+      ],
+      "color": "#595951",
+      "blurDataURL": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQAgCdASoQABAAA4BaJbACdH8AEalRIDIgAP7lrLt2rUOXB/YXWOO4l/fAcJ2rWGNY85zKx5qUDzNu/SS+JMiBwpT9CTBORzz/lW0fHgdZE1FmIXWukwFQi7knX8AdCQAHoDdyKQNAAA=="
+    },
+    {
+      "id": "puppy-teacup-white",
+      "type": "image",
+      "src": "/media/images/puppy-teacup-white.webp",
+      "width": 1024,
+      "height": 1024,
+      "alt": "White fluffy puppy sitting in a teacup on a wooden table",
+      "tags": [
+        "dog",
+        "pet",
+        "animal",
+        "cute"
+      ],
+      "color": "#8e9991",
+      "blurDataURL": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQABAAA4BaJQBOgB8nTM6wWRiAAPwUv1fXs5DJ+0fZt9rvKBstRrZsh8c6XpHYO7/r/ZcCwH4iY8HX7weXRmNkWPYZKvMsCYW8/vjTr5SJURXe4GAAAA=="
+    },
+    {
+      "id": "toon-puppy",
+      "type": "image",
+      "src": "/media/images/toon-puppy.webp",
+      "width": 768,
+      "height": 1024,
+      "alt": "3D cartoon puppy with big glossy eyes",
+      "tags": [
+        "3d",
+        "cartoon",
+        "character",
+        "pet",
+        "cute"
+      ],
+      "color": "#656056",
+      "blurDataURL": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABwAgCdASoMABAAA4BaJbACdDiAAUz2EvISPaygAP5+CrW89Gv/ut0nzKjaJqeeUxxx+xbwBGbqwU4d7iysycRQX9OOqCC2ShcceFq+Rj68Xcpn4BcQnYIbWtjlzAT3x4icOMc1UJgip2J1GgJKTE2a0D6AAA=="
+    },
+    {
+      "id": "toon-kitten-hat",
+      "type": "image",
+      "src": "/media/images/toon-kitten-hat.webp",
+      "width": 896,
+      "height": 1152,
+      "alt": "3D cartoon kitten wearing a red wide brimmed hat",
+      "tags": [
+        "3d",
+        "cartoon",
+        "character",
+        "pet",
+        "cute"
+      ],
+      "color": "#6f4f4b",
+      "blurDataURL": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoMABAAA4BaJbACdIExE6Q2slqYAP5+CrU/e4t/l5XGl5oa2SedV5axHsRO30O4i1zUKhCipyrx255ScWLRu4NjjiehTdPVYdq7i4v9hyFVoW3o95woP5jm4sf2x5ceXoX7j00bvHef2kmZAXZgAA=="
+    },
+    {
+      "id": "toon-kitten-beret",
+      "type": "image",
+      "src": "/media/images/toon-kitten-beret.webp",
+      "width": 896,
+      "height": 1152,
+      "alt": "3D cartoon kitten wearing a red beret",
+      "tags": [
+        "3d",
+        "cartoon",
+        "character",
+        "pet",
+        "cute"
+      ],
+      "color": "#696564",
+      "blurDataURL": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAACQAgCdASoMABAAA4BaJaACdG1/DyMuLUg7BPvI4AD+JwC7as6FmE8B3S7Gb6/ryl2+bQ7pbVTOlJpHJGCQJovt1NyfNCKy1tdWTBR5jLS7pAckijLb+VAL+UyaE0p3hb9Hndn1Q+XHl/d70SQQRlMfcAA="
+    },
+    {
+      "id": "neon-street",
+      "type": "image",
+      "src": "/media/images/neon-street.webp",
+      "width": 896,
+      "height": 1152,
+      "alt": "Rain soaked cyberpunk street at night with neon signs",
+      "tags": [
+        "neon",
+        "city",
+        "night",
+        "cyberpunk",
+        "environment"
+      ],
+      "color": "#5e2c73",
+      "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoMABAAA4BaJbACdAD0Yd1w7MYAAP71mZDvoGnXR1Tx/nRkptMFYA5SmVAvatjqyspdIGz8K0kole7RlgqzUjM8p/5hqwwZ41qbzhsoe7nuO/hhSmplDicUAAA="
+    },
+    {
+      "id": "neon-skyline",
+      "type": "image",
+      "src": "/media/images/neon-skyline.webp",
+      "width": 896,
+      "height": 1152,
+      "alt": "Neon city skyline seen from a balcony at night",
+      "tags": [
+        "neon",
+        "city",
+        "night",
+        "cyberpunk",
+        "environment"
+      ],
+      "color": "#4f3048",
+      "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoMABAAA4BaJbACdAEPAAjrAhwA/uakgZ8eL0LmKdVnBuWrg/pTylEMYBjTQWTSDHbdH/G/8Ph2Up0VmhXMwHLAAAA="
+    },
+    {
+      "id": "neon-alley",
+      "type": "image",
+      "src": "/media/images/neon-alley.webp",
+      "width": 717,
+      "height": 1280,
+      "alt": "Abstract neon alley with pink and blue light streaks",
+      "tags": [
+        "neon",
+        "city",
+        "night",
+        "abstract",
+        "environment"
+      ],
+      "color": "#6e498e",
+      "blurDataURL": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoJABAAA4BaJbACdADyf3BSAAD2Fq4/rLtfcwZvkCFfppa7Z3XQ/Fyy9nXTd2Be1EfKu+/SVkjYmtiXL2fWi978khxwEv/p8qqgAA=="
+    },
+    {
+      "id": "neon-suit",
+      "type": "image",
+      "src": "/media/images/neon-suit.webp",
+      "width": 717,
+      "height": 1280,
+      "alt": "Person in a reflective holographic suit crouching on a neon street",
+      "tags": [
+        "neon",
+        "fashion",
+        "character",
+        "futuristic"
+      ],
+      "color": "#45436b",
+      "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQAgCdASoJABAAA4BaJbACdAEfhMpLZowAAP6f3i4Ft4XvXlimxbUbbbaDNQWbTXQFeoiB7tUkKsMM5AUpGOl+V5F3paaJsdCUTCv/UPAozg8TQWGo/UAA"
+    },
+    {
+      "id": "gold-suit",
+      "type": "image",
+      "src": "/media/images/gold-suit.webp",
+      "width": 768,
+      "height": 1152,
+      "alt": "Person in a reflective suit crouching in warm golden interior light",
+      "tags": [
+        "fashion",
+        "character",
+        "futuristic",
+        "golden"
+      ],
+      "color": "#5e452f",
+      "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwAQCdASoLABAAA4BaJagCdADbo7iRDAAA/vRw3M74e4dJPQcD47dKvNMHR99ujbhsy0JT3xYErsUbJgktR94o4O+iMw+odx4TF7Wm4rMOFMKZoWgd9gHQja1Ptvkk8dNgjsRo01AmRGBBAAA="
+    },
+    {
+      "id": "doll-patchwork",
+      "type": "image",
+      "src": "/media/images/doll-patchwork.webp",
+      "width": 960,
+      "height": 1248,
+      "alt": "Handmade doll with a patterned dress and knitted hat",
+      "tags": [
+        "toy",
+        "doll",
+        "product",
+        "handmade"
+      ],
+      "color": "#755a4b",
+      "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoMABAAA4BaJZACdADJfe3NhSAA/A60UkyY2hMEKRtcy3wjz7eajNFitdrdUyL75FgATKmACgIFjB2Ju/UR2XqQStv97hq6fWW1BcaSXpLoWwa8bWkOLZAA"
+    },
+    {
+      "id": "doll-patchwork-window",
+      "type": "image",
+      "src": "/media/images/doll-patchwork-window.webp",
+      "width": 768,
+      "height": 1024,
+      "alt": "Handmade doll in warm window light",
+      "tags": [
+        "toy",
+        "doll",
+        "product",
+        "handmade",
+        "window"
+      ],
+      "color": "#684e3c",
+      "blurDataURL": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABwAgCdASoMABAAA4BaJbACdAYuR2tq84GdL9GAAP71gCzpN0p0a9JcrwIceNNgPNa1yLURwBrXDzGdnJLVrBQzByFB6MBQ87dhvthWYxS92hFC2NbiDPb8WVt0B+EUXk/zvCEIfPc/YR4G/T9sU24MIAxFhUQA"
+    },
+    {
+      "id": "doll-knit",
+      "type": "image",
+      "src": "/media/images/doll-knit.webp",
+      "width": 928,
+      "height": 1232,
+      "alt": "Knitted doll with a yellow beanie and braids on a white background",
+      "tags": [
+        "toy",
+        "doll",
+        "product",
+        "handmade"
+      ],
+      "color": "#8a654b",
+      "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoMABAAA4BaJaACdAD2P1DuBAAA/ZgQjBc6/0FU+lOkdRkInJsMz2U7lk602Y9FPO0eaZkDyU2XR5DFsRQ8XCuii2oXwAAA"
+    },
+    {
+      "id": "doll-knit-sunset",
+      "type": "image",
+      "src": "/media/images/doll-knit-sunset.webp",
+      "width": 768,
+      "height": 1024,
+      "alt": "Knitted doll standing on a beach at sunset",
+      "tags": [
+        "toy",
+        "doll",
+        "product",
+        "handmade",
+        "sunset"
+      ],
+      "color": "#856042",
+      "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABQAgCdASoMABAAA4BaJbACdEf/ggbDUTTXKAAAzem5TGn10kjVvPkJjBESK1oDpoFpmjlL4OCVNlQuPR6I+oOCEc8q5FcgVZMxdFZtEQ+AgeShDQFbQJVO4gj+XO1dY6Q6AA=="
+    },
+    {
+      "id": "floral-still-life",
+      "type": "image",
+      "src": "/media/images/floral-still-life.webp",
+      "width": 1024,
+      "height": 1024,
+      "alt": "Still life of white flowers in a vase on a sunlit desk",
+      "tags": [
+        "flowers",
+        "still life",
+        "window",
+        "soft"
+      ],
+      "color": "#828465",
+      "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoQABAAA4BaJbACdAEeaUEhnOzZgAD+7e3MB4KumDH0l9Ogc5jmPY3Jw4nuZ6YEN+xkISPHfsiVITAKwPK9ouosRGZa4WBJ0t8dTWGjxmDkJSibWb1RrncbINimNOr6gAA="
+    },
+    {
+      "id": "floral-crown",
+      "type": "image",
+      "src": "/media/images/floral-crown.webp",
+      "width": 1024,
+      "height": 1024,
+      "alt": "Woman with a flower crown in dreamy sunlit atelier",
+      "tags": [
+        "portrait",
+        "woman",
+        "flowers",
+        "soft"
+      ],
+      "color": "#857c5f",
+      "blurDataURL": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwAgCdASoQABAAA4BaJbACdAEWQ3ktKXgZgAD+a+OHtENzqhGZY118lJ+qy3Ji0KvpL6OvKPBMUutRcpa/LVVrOa02R+faqKCGuhPr5nUE6VTT4D2yGYRUMEy0GGBfDNwqTM5l9BoJ3/gduvi58wUwAAA="
+    },
+    {
+      "id": "floral-window",
+      "type": "image",
+      "src": "/media/images/floral-window.webp",
+      "width": 1024,
+      "height": 1024,
+      "alt": "Woman with flowers in her hair beside a bright window",
+      "tags": [
+        "portrait",
+        "woman",
+        "flowers",
+        "window"
+      ],
+      "color": "#7f7659",
+      "blurDataURL": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoQABAAA4BaJZgCdH8AEF6a8CokgAD+8EwHp83SstyaMw53Sygn89xT/eYNeKQZLr/caSKGJHva33IaKw3e1HizkbcaPlQpLnjZLbQM1YMDuaoomlZvFQtX5RsRIqpENnvsQviMZoY69AAA"
+    },
+    {
+      "id": "floral-painterly",
+      "type": "image",
+      "src": "/media/images/floral-painterly.webp",
+      "width": 1024,
+      "height": 1024,
+      "alt": "Painterly portrait of a woman wearing a flower crown",
+      "tags": [
+        "portrait",
+        "woman",
+        "flowers",
+        "painterly"
+      ],
+      "color": "#79745c",
+      "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQABAAA4BaJagCdAdwB09PIaQAAPkGGeNwex09AcOpTbe7M7nGNfqtx3VOXxh2rbpNxq8qHsrbnGuN2z/RwHt4gj2ggMy3SSfdFjL1Ni+bt1nWbonnyayAAAA="
+    },
+    {
+      "id": "hat-tropical",
+      "type": "image",
+      "src": "/media/images/hat-tropical.webp",
+      "width": 1024,
+      "height": 1024,
+      "alt": "Woman in a woven straw hat in a tropical garden",
+      "tags": [
+        "portrait",
+        "woman",
+        "tropical",
+        "summer"
+      ],
+      "color": "#5a543d",
+      "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAABQAgCdASoQABAAA4BaJZACdAYwn2igekOBBtAA/sGrGkWfibNOutSHnm5hkR5XKv3QHbfASYvFUbOj8xq2I3MTVp23gGf3d5zKZNmite5Kt0bmX6c/ojG4s75mLzO787I30cz/7DQvNkf7MO9AAA=="
+    },
+    {
+      "id": "hat-palms",
+      "type": "image",
+      "src": "/media/images/hat-palms.webp",
+      "width": 1024,
+      "height": 1024,
+      "alt": "Woman with long hair and a straw hat among palm leaves",
+      "tags": [
+        "portrait",
+        "woman",
+        "tropical",
+        "summer"
+      ],
+      "color": "#6c6653",
+      "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoQABAAA4BaJQBOgCFv9SlfVlAA/mssRTmRbGW71BGDNOIvuoZdSTwGZmKY3KWUT1/FetM+7w34YC92OXAU/Hf5ehLuHVc382vClhm2WF7F7PmriMM+LZ0AAAA="
+    },
+    {
+      "id": "hat-wide",
+      "type": "image",
+      "src": "/media/images/hat-wide.webp",
+      "width": 1024,
+      "height": 1024,
+      "alt": "Portrait of a woman in a wide brimmed hat, soft overcast light",
+      "tags": [
+        "portrait",
+        "woman",
+        "summer"
+      ],
+      "color": "#7c6a58",
+      "blurDataURL": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAABwAgCdASoQABAAA4BaJQBOgMYTymhGlk3yDw2AAP6KGKwN+CQKNBHPeeOpTGcvuqlu2l2+S4cafWaURz8IMTSLhVXouNpoeADPtqeny2tJMm076dVi7dwC5JFL9yLUcX6NvGDAW6VPcsUjDBi6FmjLFtxXLsHxaQ8ukuAA"
+    },
+    {
+      "id": "field-portrait",
+      "type": "image",
+      "src": "/media/images/field-portrait.webp",
+      "width": 1024,
+      "height": 1024,
+      "alt": "Woman in a teal shirt standing in a green wheat field",
+      "tags": [
+        "portrait",
+        "woman",
+        "nature",
+        "field"
+      ],
+      "color": "#5b7a65",
+      "blurDataURL": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABQAgCdASoQABAAA4BaJbACdH8AGA+PRcdGGAAA/uUqldwGJXidv8zQablAtGaj1dTXS2G5qVVqxflHxjlwygNjKwAz+CoujsnuAU0C+z6xbsi0jsToin4WNxL/Ckqrms0hlLVsrAAAAA=="
+    },
+    {
+      "id": "field-illustrated",
+      "type": "image",
+      "src": "/media/images/field-illustrated.webp",
+      "width": 1024,
+      "height": 1024,
+      "alt": "Illustrated woman in a green shirt in a sunny meadow",
+      "tags": [
+        "portrait",
+        "woman",
+        "illustration",
+        "field"
+      ],
+      "color": "#89a36a",
+      "blurDataURL": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoQABAAA4BaJbACdAEO7p7E4OgAAP7rnW9HhdsM1a6/Pj5gGgg8YiZmQCprHbzeh3QmdCGMRr3qgfuIrtt1joYeblTFwRb0EV0EMl4W3MDYO5yPdhMxhHU6hMA3W5czgkX+vWGEJItJ0gAA"
+    },
+    {
+      "id": "field-redhead",
+      "type": "image",
+      "src": "/media/images/field-redhead.webp",
+      "width": 1024,
+      "height": 1024,
+      "alt": "Red haired woman surrounded by white wildflowers in warm light",
+      "tags": [
+        "portrait",
+        "woman",
+        "redhead",
+        "flowers"
+      ],
+      "color": "#ad9a76",
+      "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoQABAAA4BaJbACdAEN/L1yBXjAAP5tI2K+vdqZbZIU32rxTtywOynaVPiCi6mar3MBkinL5fxBWqA1EHJgOAyZ5j4+Zi1neDRXJDxhmxiTINFrBK4foV2VToWnfy9wAdm8efSAAAA="
+    },
+    {
+      "id": "lace-shadow",
+      "type": "image",
+      "src": "/media/images/lace-shadow.webp",
+      "width": 717,
+      "height": 1280,
+      "alt": "Woman in a lace blouse in soft studio light",
+      "tags": [
+        "portrait",
+        "woman",
+        "window",
+        "soft"
+      ],
+      "color": "#5b4f47",
+      "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoJABAAA4BaJZQCdAELXsaQcAD+9HfCoy4q8i3O4UY4uhUOmnZvjEsufoTK64l16/Y8Cue+jThvzUbg0QgAAA=="
+    },
+    {
+      "id": "lace-window",
+      "type": "image",
+      "src": "/media/images/lace-window.webp",
+      "width": 698,
+      "height": 1280,
+      "alt": "Woman in a lace blouse with window blind shadows on the wall",
+      "tags": [
+        "portrait",
+        "woman",
+        "window",
+        "dramatic"
+      ],
+      "color": "#76604b",
+      "blurDataURL": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoJABAAA4BaJQBOgCFsskOid/QAAP7vmIjDLA/EJndCA1WUHsgswhRu3lXoFrIHKchsJEyjV39aJhn+aG5WsUQrANAH7OKtvQAAAA=="
+    },
+    {
+      "id": "villa-moon",
+      "type": "image",
+      "src": "/media/images/villa-moon.webp",
+      "width": 853,
+      "height": 1280,
+      "alt": "Modern villa with an infinity pool under a full moon",
+      "tags": [
+        "architecture",
+        "night",
+        "environment",
+        "luxury"
+      ],
+      "color": "#384141",
+      "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADQAQCdASoLABAAA4BaJZgCdADzmfkegAD+9Xw4U5eXqlyExI6wxHxr/e9d8XZ/9QMtJ8sittO7u8zle6FGieQeMQ3BLh1krAS9FsQtT2jV8oTh7c6NwAAA"
+    },
+    {
+      "id": "villa-palms",
+      "type": "image",
+      "src": "/media/images/villa-palms.webp",
+      "width": 853,
+      "height": 1280,
+      "alt": "Villa terrace and pool with palm trees on a moonlit night",
+      "tags": [
+        "architecture",
+        "night",
+        "environment",
+        "luxury"
+      ],
+      "color": "#373e47",
+      "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoLABAAA4BaJaACdADyhfsl4IgA/vV74XfyuDOYYT0NqnLK7CFUg5tZ2o21MWTvlaC/Id9XZOUXul0KYvzu5k7UmK7ojZwQTz7hH4BxGNQAAA=="
+    },
+    {
+      "id": "worker-studio",
+      "type": "image",
+      "src": "/media/images/worker-studio.webp",
+      "width": 853,
+      "height": 1280,
+      "alt": "Construction foreman in a hard hat pointing upward",
+      "tags": [
+        "character",
+        "worker",
+        "portrait"
+      ],
+      "color": "#808d8e",
+      "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABQAgCdASoLABAAA4BaJZgCdAYulbSIsxcTPgAA/vfqz5YrYYRtEH++qS+g5nsUZe/vCfwU+vFFyoCCmGT2sQsOF713020AzwWs1y4J+6aU9ykTyBSmkY8IxxVmcOUMrStYt/6yf7WKAAAA"
+    },
+    {
+      "id": "worker-neon",
+      "type": "image",
+      "src": "/media/images/worker-neon.webp",
+      "width": 768,
+      "height": 1152,
+      "alt": "Construction foreman lit by neon city lights",
+      "tags": [
+        "character",
+        "worker",
+        "neon"
+      ],
+      "color": "#3f333b",
+      "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAABQAgCdASoLABAAA4BaJbACdH8AE60s2eayqAAA/upYKAhWmDmetSgv7p95udZ5VQ2KGAGX8KPyQvg6hraSSHTzc9zyz8fA6KCUkqoj3v9KO6GoKSlHYzcAAAA="
+    },
+    {
+      "id": "punk-portrait",
+      "type": "image",
+      "src": "/media/images/punk-portrait.webp",
+      "width": 832,
+      "height": 1216,
+      "alt": "Punk character with a white mohawk and black face paint",
+      "tags": [
+        "character",
+        "portrait",
+        "punk",
+        "dramatic"
+      ],
+      "color": "#535251",
+      "blurDataURL": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACwAQCdASoLABAAA4BaJZQAAlo2tSUAAP7mh8MbnADLx++Jsj2kkgX0jZPK84tpV74D7iS5J7VY3gV8KSuoiw24noT8EhNmXKEzGkwIAAA="
+    },
+    {
+      "id": "punk-violet",
+      "type": "image",
+      "src": "/media/images/punk-violet.webp",
+      "width": 768,
+      "height": 1152,
+      "alt": "Punk character with face paint in violet stage light",
+      "tags": [
+        "character",
+        "portrait",
+        "punk",
+        "neon"
+      ],
+      "color": "#664161",
+      "blurDataURL": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoLABAAA4BaJbACdAEXZ3PhPiDoAP7gq6OiFDWpL269k7N+6ssuylf9hjLmKab5qdfQIisqX+gbuCVy8emQT0t4BQ67/s3fg4FBOMAA"
+    },
+    {
+      "id": "dog-corgi",
+      "type": "image",
+      "src": "/media/images/dog-corgi.webp",
+      "width": 1024,
+      "height": 1024,
+      "alt": "Corgi running happily across green grass",
+      "tags": [
+        "dog",
+        "pet",
+        "animal",
+        "action"
+      ],
+      "color": "#7e804c",
+      "blurDataURL": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoQABAAA4BaJbACdADl8FuJYTMAAMkCDYEXhIdJnStgw+BdJo2cP0hJtqyISq41QBiZxfRlQUvnLOuySAu992MSyVD5k7zbyNvkzaSLMAA="
+    },
+    {
+      "id": "dog-maltese",
+      "type": "image",
+      "src": "/media/images/dog-maltese.webp",
+      "width": 844,
+      "height": 844,
+      "alt": "White maltese dog lying on autumn leaves",
+      "tags": [
+        "dog",
+        "pet",
+        "animal",
+        "cute"
+      ],
+      "color": "#817972",
+      "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoQABAAA4BaJYwCdAEOUgd4ijKAAP7l6zrgSwfHV45GGqy6dpp9r34zUFttzEr8fUpFh+QWV/jT7NcXo9agt1tM1aouMQefmLIqoAYhEAgAAA=="
+    },
+    {
+      "id": "dog-husky",
+      "type": "image",
+      "src": "/media/images/dog-husky.webp",
+      "width": 640,
+      "height": 1280,
+      "alt": "Husky running along a beach at the water's edge",
+      "tags": [
+        "dog",
+        "animal",
+        "action",
+        "nature"
+      ],
+      "color": "#97968b",
+      "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoIABAAA4BaJQBdgCHdIo+8AAD8tPxqtPrEdTneZ2I7rChsLErtGP98FW74x3rHbJV65Y4irLSL+4UCApIAAA=="
+    },
+    {
+      "id": "wolf-neon",
+      "type": "image",
+      "src": "/media/images/wolf-neon.webp",
+      "width": 768,
+      "height": 1152,
+      "alt": "Wolf running through a neon lit arcade",
+      "tags": [
+        "animal",
+        "neon",
+        "action",
+        "cinematic"
+      ],
+      "color": "#3e413c",
+      "blurDataURL": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoLABAAA4BaJbACdH8AF8LRTg2gAP74kwZrBsLmP6WnE94te6eg+bo5s4/oqqUe7/5q4x2FvH5L9VrnnKYCrN6eg0/i+vt3rgUejxcx/c1/99qQ/zWx8iPcER62ka04Q6QHkb/7ksUEgQAA"
+    },
+    {
+      "id": "interior-cafe",
+      "type": "image",
+      "src": "/media/images/interior-cafe.webp",
+      "width": 964,
+      "height": 1280,
+      "alt": "Dark moody cafe interior with patterned wallpaper",
+      "tags": [
+        "interior",
+        "environment",
+        "moody"
+      ],
+      "color": "#3c3025",
+      "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAwAgCdASoMABAAA4BaJYgCdAEUU/1MN3JcAAD+9ZYFue3wWq39CYPMR0Rsde1+X1LW9W8dE1HzUmXsbdIhwIvObbIAAA=="
+    },
+    {
+      "id": "interior-shelves",
+      "type": "image",
+      "src": "/media/images/interior-shelves.webp",
+      "width": 992,
+      "height": 1216,
+      "alt": "Green lit storeroom with shelves of jars",
+      "tags": [
+        "interior",
+        "environment",
+        "moody"
+      ],
+      "color": "#233728",
+      "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoNABAAA4BaJYgCdAD0kwZ4x+AA/ua4rfd3QjDUqU751qb7XN1qEfyhbvfBOVSKdY6EFsQVAAA="
+    },
+    {
+      "id": "interior-beds",
+      "type": "image",
+      "src": "/media/images/interior-beds.webp",
+      "width": 1024,
+      "height": 1024,
+      "alt": "Two beds in a room split by pink and blue light",
+      "tags": [
+        "interior",
+        "environment",
+        "pastel"
+      ],
+      "color": "#7277b9",
+      "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoQABAAA4BaJbACdADG4ZEY0AAA/eMKLXsQjlyFE2ZJYPAmZpsm4S8lxPQWQgLza2z97LfDwv1E/p5MsQuuP9bmAAA="
+    },
+    {
+      "id": "podium-clouds",
+      "type": "image",
+      "src": "/media/images/podium-clouds.webp",
+      "width": 853,
+      "height": 1280,
+      "alt": "Pink product podium surrounded by soft clouds",
+      "tags": [
+        "product",
+        "backdrop",
+        "pastel"
+      ],
+      "color": "#eaa3c2",
+      "blurDataURL": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAwAgCdASoLABAAA4BaJbACdAELZFMChLTpAAD+9UlvPPHWyzbNTuG5VcTaPebjDHdY9HPSURbAfz9hCm7sufQIGmFvUvSPbv16Wv5gAAA="
+    },
+    {
+      "id": "podium-wood",
+      "type": "image",
+      "src": "/media/images/podium-wood.webp",
+      "width": 1024,
+      "height": 1024,
+      "alt": "Wooden floor against a pale blue wall, empty product backdrop",
+      "tags": [
+        "product",
+        "backdrop",
+        "minimal"
+      ],
+      "color": "#a2c0cb",
+      "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAABwAgCdASoQABAAA4BaJZgCdGuAt/8D0PsUt6wAAP5jKc3lhNDd3LEhusbG6N4vhcD/M6qpqqBQf4SAAAA="
+    },
+    {
+      "id": "podium-bokeh",
+      "type": "image",
+      "src": "/media/images/podium-bokeh.webp",
+      "width": 853,
+      "height": 1280,
+      "alt": "Wooden table top with warm bokeh lights behind",
+      "tags": [
+        "product",
+        "backdrop",
+        "warm"
+      ],
+      "color": "#846852",
+      "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoLABAAA4BaJZgCdAEQzUKx6CaQAP62EKTM6rNyyQ7fEjmm1x/x+fRN0b1ktd8HS5a8TyQArGXyfMa3kRw0RTE/f7J8Fm493WQvIElpSpVudkdG2n9u9imEoyAAAA=="
+    },
+    {
+      "id": "podium-stage",
+      "type": "image",
+      "src": "/media/images/podium-stage.webp",
+      "width": 853,
+      "height": 1280,
+      "alt": "Empty stage lit by a purple and green spotlight",
+      "tags": [
+        "product",
+        "backdrop",
+        "stage"
+      ],
+      "color": "#53496b",
+      "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAwAgCdASoLABAAA4BaJagCdAEW01n3FCx3QAD+4I7Xwegq6CDfE2pxDsa00BLsM25EFrjvVRCZAxczmiDyd0xg5TKAAA=="
+    },
+    {
+      "id": "portrait-bob",
+      "type": "image",
+      "src": "/media/images/portrait-bob.webp",
+      "width": 512,
+      "height": 768,
+      "alt": "Woman with a short brown bob in soft studio light",
+      "tags": [
+        "portrait",
+        "woman",
+        "studio"
+      ],
+      "color": "#706666",
+      "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABQAgCdASoLABAAA4BaJQBOgMX1tfU/9w25KAAA/uRdbf6pC4cFSsxgx00Cn8SL9nt5kgQPGSKtWnP4in5E8ceeIzsoGXENf21ljE22SRFocFuWl64XPfCLRbC9m+NogAA="
+    },
+    {
+      "id": "portrait-bob-window",
+      "type": "image",
+      "src": "/media/images/portrait-bob-window.webp",
+      "width": 768,
+      "height": 1152,
+      "alt": "Woman with a short bob lit by rainy window light",
+      "tags": [
+        "portrait",
+        "woman",
+        "window"
+      ],
+      "color": "#7d6553",
+      "blurDataURL": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABwAgCdASoLABAAA4BaJZACdB2gAn8uJ++0qw8AAP70tzYoj1sUMWxmZgmspa5VQrUYjRIYlsFlm1jOIbT1GVyN1C5jn1gzq0mlJk2jiBpXpjXC6XqDWCeYLOjz+ySBEzpT1Vn02NcAAA=="
+    },
+    {
+      "id": "portrait-sunset",
+      "type": "image",
+      "src": "/media/images/portrait-sunset.webp",
+      "width": 768,
+      "height": 960,
+      "alt": "Blonde woman on a beach backlit by the setting sun",
+      "tags": [
+        "portrait",
+        "woman",
+        "sunset",
+        "golden"
+      ],
+      "color": "#653f1e",
+      "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoNABAAA4BaJbACdAECtjN9NnNAAP730yK7QhinKgTM3oFhWwW8mGkknQv+9mo82iJTdwxoWrM9hFQpLjtw29Rl0He4xjJ6KzqhbitlK9o1+eZ0I8qawoJuYwPdsYEVtfHNY0PDYAA="
+    },
+    {
+      "id": "portrait-blazer",
+      "type": "image",
+      "src": "/media/images/portrait-blazer.webp",
+      "width": 768,
+      "height": 1152,
+      "alt": "Woman with bangs in a blazer leaning on a sunlit wall",
+      "tags": [
+        "portrait",
+        "woman",
+        "window",
+        "editorial"
+      ],
+      "color": "#5e4f44",
+      "blurDataURL": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAQCdASoLABAAA4BaJQBOgBjQYZ7nAAD+YWrOafbLzJeg3hEinWP+UHUEF/ScTMm6WvhSc2ubsiXi3UPEG+fyjtrnAC1/PNIgK9mvtp7FaGnpCXV/1VZERgAAAA=="
+    },
+    {
+      "id": "portrait-neon-youth",
+      "type": "image",
+      "src": "/media/images/portrait-neon-youth.webp",
+      "width": 768,
+      "height": 960,
+      "alt": "Teen holding a tablet on a neon lit street",
+      "tags": [
+        "portrait",
+        "neon",
+        "city",
+        "night"
+      ],
+      "color": "#39334a",
+      "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADQAQCdASoNABAAA4BaJbACdADzasJDmAD+eTt+IfVlVXrEhQp2mLqfNe5tXHhJ3otMQy2v5956SfWB6tZ13jD70NCDFsAUOAzchQRCBYDrN/wtSPl09Bmt0r/DY4oPU2xEjgoF+kqUzZAA"
+    }
+  ],
+  "videos": [
+    {
+      "id": "fighter-relight",
+      "type": "video",
+      "src": "/media/videos/fighter-relight.mp4",
+      "poster": "/media/images/fighter-neon.webp",
+      "width": 640,
+      "height": 960,
+      "duration": 5.0,
+      "alt": "Female boxer as the light shifts from gym tungsten to green to neon",
+      "tags": [
+        "athlete",
+        "boxer",
+        "cinematic",
+        "dramatic",
+        "neon",
+        "portrait",
+        "woman"
+      ],
+      "color": "#885d8b",
+      "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwAgCdASoLABAAA4BaJbACdAEQEUZZRp0rIAD+pgD7TuNwmQgDpWccnMyNEZaXbZy77LN2mFqTstpzFOK9qTwT76QHN/GUNBWjSa0+uYKhwhiBPfAGqz+aRZLZ7LZux0Z9gSB74PRbCIuAAAA="
+    },
+    {
+      "id": "rose-relight",
+      "type": "video",
+      "src": "/media/videos/rose-relight.mp4",
+      "poster": "/media/images/rose-window.webp",
+      "width": 640,
+      "height": 960,
+      "duration": 5.0,
+      "alt": "Woman with a red rose headband as city light turns into window light",
+      "tags": [
+        "cinematic",
+        "city",
+        "neon",
+        "night",
+        "portrait",
+        "rose",
+        "soft",
+        "window",
+        "woman"
+      ],
+      "color": "#674d3c",
+      "blurDataURL": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAwAgCdASoLABAAA4BaJZgCdAEfUoOsxA1dgAD+4pitzfYtzvx+0Jt/bhQfyNGJU6SdChCyNgBR+sg7b46CVeJ8cMXPvQXJ+5C0Xrv5RmBOeeYozgPVN9nczWsAAA=="
+    },
+    {
+      "id": "villa-night",
+      "type": "video",
+      "src": "/media/videos/villa-night.mp4",
+      "poster": "/media/images/villa-moon.webp",
+      "width": 640,
+      "height": 960,
+      "duration": 5.0,
+      "alt": "Slow push across a moonlit villa and pool",
+      "tags": [
+        "architecture",
+        "environment",
+        "luxury",
+        "night"
+      ],
+      "color": "#384141",
+      "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADQAQCdASoLABAAA4BaJZgCdADzmfkegAD+9Xw4U5eXqlyExI6wxHxr/e9d8XZ/9QMtJ8sittO7u8zle6FGieQeMQ3BLh1krAS9FsQtT2jV8oTh7c6NwAAA"
+    },
+    {
+      "id": "neon-street-dolly",
+      "type": "video",
+      "src": "/media/videos/neon-street-dolly.mp4",
+      "poster": "/media/images/neon-street.webp",
+      "width": 768,
+      "height": 960,
+      "duration": 5.0,
+      "alt": "Slow dolly into a rain soaked neon street",
+      "tags": [
+        "city",
+        "cyberpunk",
+        "environment",
+        "neon",
+        "night"
+      ],
+      "color": "#5e2c73",
+      "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoMABAAA4BaJbACdAD0Yd1w7MYAAP71mZDvoGnXR1Tx/nRkptMFYA5SmVAvatjqyspdIGz8K0kole7RlgqzUjM8p/5hqwwZ41qbzhsoe7nuO/hhSmplDicUAAA="
+    },
+    {
+      "id": "doll-sunset",
+      "type": "video",
+      "src": "/media/videos/doll-sunset.mp4",
+      "poster": "/media/images/doll-knit-sunset.webp",
+      "width": 640,
+      "height": 960,
+      "duration": 5.0,
+      "alt": "Knitted doll moving from studio white to a sunset beach",
+      "tags": [
+        "doll",
+        "handmade",
+        "product",
+        "sunset",
+        "toy"
+      ],
+      "color": "#856042",
+      "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABQAgCdASoMABAAA4BaJbACdEf/ggbDUTTXKAAAzem5TGn10kjVvPkJjBESK1oDpoFpmjlL4OCVNlQuPR6I+oOCEc8q5FcgVZMxdFZtEQ+AgeShDQFbQJVO4gj+XO1dY6Q6AA=="
+    },
+    {
+      "id": "cat-window",
+      "type": "video",
+      "src": "/media/videos/cat-window.mp4",
+      "poster": "/media/images/cat-ragdoll-window.webp",
+      "width": 800,
+      "height": 800,
+      "duration": 5.0,
+      "alt": "Gentle push in on a ragdoll kitten by the window",
+      "tags": [
+        "animal",
+        "cat",
+        "cute",
+        "pet",
+        "soft"
+      ],
+      "color": "#7c6f5f",
+      "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoQABAAA4BaJZACdAYwxDJQ4hEAAP5NJCG0c8Ih8AJCtvrZ032S0Yb5Jd1dwQAjlUVw7H/IDxJLg5UjcDEqSvUuOSlBpgYPtiUNle/Fx1CBE3Yb8ahcrvzyFp1Nnmm5QQeXjaybRwIAAA=="
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+.skeleton {
+  position: relative;
+  overflow: hidden;
+  background: var(--media-bg);
+}
+
+/* A soft sheen sweeps across, signalling progress without being noisy. */
+.skeleton::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  transform: translateX(-100%);
+  background: linear-gradient(
+    100deg,
+    transparent 20%,
+    color-mix(in srgb, var(--surface) 55%, transparent) 50%,
+    transparent 80%
+  );
+  animation: sheen 1.6s var(--easing-soft) infinite;
+}
+
+@keyframes sheen {
+  to {
+    transform: translateX(100%);
+  }
+}

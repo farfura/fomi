@@ -1,0 +1,36 @@
+/* Progress style track above the icons, as in the design. The fill slides to the active item. */
+.track {
+  position: relative;
+  height: 10px;
+  border-radius: 999px;
+  background: var(--track);
+  overflow: hidden;
+}
+
+.fill {
+  position: absolute;
+  inset-block: 0;
+  left: 0;
+  width: calc(100% / var(--count));
+  border-radius: 999px;
+  background: var(--accent);
+  transform: translateX(calc(var(--index) * 100%));
+  transition: transform 420ms var(--easing-spring), opacity 200ms ease;
+}
+
+.fillHidden {
+  opacity: 0;
+}
+
+.items {
+  display: grid;
+  grid-template-columns: repeat(var(--count), minmax(0, 1fr));
+}
+
+/* Phones: a hairline indicator along the top edge of the tab bar. */
+.tabTrack {
+  position: absolute;
+  inset-inline: 0.5rem; /* matches the list's px-2 so the fill sits over its item */
+  top: -1px;
+  height: 3px;
+}

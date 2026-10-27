@@ -1,0 +1,227 @@
+@import "tailwindcss";
+
+/* ------------------------------------------------------------------ */
+/*  Design tokens                                                      */
+/*  Every colour is a CSS variable so light and dark themes share one  */
+/*  set of Tailwind utilities (bg-panel, text-muted, border-line …).   */
+/* ------------------------------------------------------------------ */
+
+:root {
+  --easing-soft: cubic-bezier(0.22, 1, 0.36, 1);
+  --easing-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+:root,
+[data-theme="light"] {
+  color-scheme: light;
+  --bg: #fbfaf6;
+  --surface: #ffffff;
+  --panel: #f8ede7;
+  --card: #f5eae5;
+  --chip: #ffffff;
+  --chip-active: #f6e3dc;
+  --track: #f3e8e2;
+  --line: #eaddd6;
+  --line-soft: #f1e6e0;
+  --line-strong: #1e1b19;
+  --ink: #1e1b19;
+  --muted: #6b6560;
+  --subtle: #8a817c;
+  --accent: #e3998a;
+  --accent-soft: #f9e3dc;
+  --accent-strong: #b95a43;
+  --accent-strong-hover: #a64e39;
+  --accent-ink: #ffffff;
+  --scrim: rgb(24 18 16 / 0.55);
+  --media-bg: #efe6e1;
+  --danger: #b4372c;
+  --success: #2f7a4d;
+  --shadow-color: 30 20 15;
+}
+
+[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #131110;
+  --surface: #1b1816;
+  --panel: #1f1a18;
+  --card: #27211e;
+  --chip: #2b2522;
+  --chip-active: #3b2f2a;
+  --track: #2a2421;
+  --line: #352d29;
+  --line-soft: #2a2421;
+  --line-strong: #d6cdc8;
+  --ink: #f3eeeb;
+  --muted: #b3a9a3;
+  --subtle: #8e847e;
+  --accent: #e8a493;
+  --accent-soft: #3a2a24;
+  --accent-strong: #e8907a;
+  --accent-strong-hover: #f0a28e;
+  --accent-ink: #1c120e;
+  --scrim: rgb(0 0 0 / 0.7);
+  --media-bg: #26201d;
+  --danger: #f08a7d;
+  --success: #74c995;
+  --shadow-color: 0 0 0;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-panel: var(--panel);
+  --color-card: var(--card);
+  --color-chip: var(--chip);
+  --color-chip-active: var(--chip-active);
+  --color-track: var(--track);
+  --color-line: var(--line);
+  --color-line-soft: var(--line-soft);
+  --color-line-strong: var(--line-strong);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-subtle: var(--subtle);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-accent-strong: var(--accent-strong);
+  --color-accent-strong-hover: var(--accent-strong-hover);
+  --color-accent-ink: var(--accent-ink);
+  --color-scrim: var(--scrim);
+  --color-media: var(--media-bg);
+  --color-danger: var(--danger);
+  --color-success: var(--success);
+
+  --font-sans: var(--font-poppins), ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+
+  --shadow-soft: 0 1px 2px rgb(var(--shadow-color) / 0.05), 0 8px 24px -6px rgb(var(--shadow-color) / 0.1);
+  --shadow-float: 0 2px 6px rgb(var(--shadow-color) / 0.06), 0 18px 48px -12px rgb(var(--shadow-color) / 0.22);
+
+  --ease-out-soft: var(--easing-soft);
+  --ease-spring: var(--easing-spring);
+
+  --animate-fade-in: fade-in 240ms var(--easing-soft) both;
+  --animate-rise-in: rise-in 420ms var(--easing-soft) both;
+  --animate-pop-in: pop-in 260ms var(--easing-spring) both;
+  --animate-flash: flash 1600ms var(--easing-soft);
+
+  @keyframes fade-in {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  @keyframes rise-in {
+    from { opacity: 0; transform: translateY(12px) scale(0.985); }
+    to { opacity: 1; transform: none; }
+  }
+  @keyframes pop-in {
+    from { opacity: 0; transform: scale(0.96) translateY(-4px); }
+    to { opacity: 1; transform: none; }
+  }
+  @keyframes flash {
+    0%, 100% { box-shadow: 0 0 0 0 transparent; }
+    20% { box-shadow: 0 0 0 4px var(--accent); }
+  }
+}
+
+/* ------------------------------------------------------------------ */
+/*  Base                                                               */
+/* ------------------------------------------------------------------ */
+
+@layer base {
+  html {
+    background: var(--bg);
+    -webkit-text-size-adjust: 100%;
+    /* Room for the sticky header and history rail when jumping to a generation. */
+    scroll-padding-top: 9.5rem;
+
+    @media (min-width: 768px) {
+      scroll-padding-top: 13rem;
+    }
+  }
+
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  ::selection {
+    background: var(--accent);
+    color: #1e1b19;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--accent-strong);
+    outline-offset: 2px;
+  }
+
+  button,
+  [role="button"],
+  summary {
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  button:disabled {
+    cursor: not-allowed;
+  }
+
+  dialog {
+    color: inherit;
+  }
+
+  /* Lock page scroll while any modal dialog is open. */
+  html:has(dialog[open]) {
+    overflow: hidden;
+  }
+
+  /* Thin, theme aware scrollbars */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: var(--line) transparent;
+  }
+}
+
+@layer utilities {
+  .no-scrollbar {
+    scrollbar-width: none;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Circular reveal when switching theme (View Transitions API, progressive enhancement). */
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation: none;
+  mix-blend-mode: normal;
+}
+
+::view-transition-new(root) {
+  animation: theme-reveal 560ms var(--easing-soft);
+}
+
+@keyframes theme-reveal {
+  from {
+    clip-path: circle(0 at var(--reveal-x, 100%) var(--reveal-y, 0));
+  }
+  to {
+    clip-path: circle(var(--reveal-r, 150vmax) at var(--reveal-x, 100%) var(--reveal-y, 0));
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 1ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 1ms !important;
+    scroll-behavior: auto !important;
+  }
+}

@@ -1,0 +1,19 @@
+.root {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(var(--count), minmax(0, 1fr));
+  isolation: isolate;
+}
+
+/* The pill slides under the active option instead of jumping. */
+.indicator {
+  position: absolute;
+  z-index: -1;
+  inset-block: var(--inset, 4px);
+  left: var(--inset, 4px);
+  width: calc((100% - 2 * var(--inset, 4px)) / var(--count));
+  border-radius: 999px;
+  background: var(--chip-active);
+  transform: translateX(calc(var(--index) * 100%));
+  transition: transform 320ms var(--easing-spring);
+}
